@@ -133,10 +133,12 @@ const styles = {
     "popup-header-text-content": {
         "font-size": "200%",
         "display": "block",
+        "overflow-wrap": "break-word"
       },
       "popup-paragraph-text-content": {
         "font-size": "125%",
         "display": "block",
+        "overflow-wrap": "break-word"
       }
 };
 
